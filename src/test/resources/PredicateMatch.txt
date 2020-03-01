@@ -1,0 +1,8 @@
+This line should be ignored, because it is before the first predicate
+X
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse aliquet quis ligula nec tristique.
+X
+Donec augue ipsum, mattis et elit vel, convallis convallis dui.
+X
+In hac habitasse platea dictums.
